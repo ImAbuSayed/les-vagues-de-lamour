@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-vagues-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Les Vagues De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-vagues-de-lamour/) |
+| **Get License** | [Commercial Licensing for Les Vagues De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-vagues-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la chaleur de la nuit, baby come close
+> Sous les étoiles de Paris, l'amour s'impose
+> Tes yeux qui brillent dans le noir, c'est mon décor
+> Mon cœur qui bat sur le groove, j'en veux encore
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
